@@ -79,7 +79,7 @@ threadpoolctl
 toml
 toolz
 tornado
-tqdm=
+tqdm
 traitlets
 typing
 typing_extensions
